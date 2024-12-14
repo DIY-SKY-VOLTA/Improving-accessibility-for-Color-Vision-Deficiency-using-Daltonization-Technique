@@ -54,7 +54,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ![Daltonization interface popup](https://github.com/user-attachments/assets/1a840c15-3a59-473a-918d-e68d40ec2b7e) ![_no water mark_enhanced](https://github.com/user-attachments/assets/dc3f9ff1-3d56-41a6-9842-0df0d7e74584)
             ## Resized for Better Visibility
-<img src="[https://example.com/cvd-chart.png](https://github.com/user-attachments/assets/1a840c15-3a59-473a-918d-e68d40ec2b7e)" alt="CVD Chart" width="600">                                           
+<img src="https://example.com/cvd-chart.png](https://github.com/user-attachments/assets/1a840c15-3a59-473a-918d-e68d40ec2b7e" alt="CVD Chart" width="600">                                           
                                                         Original Image
 
 
