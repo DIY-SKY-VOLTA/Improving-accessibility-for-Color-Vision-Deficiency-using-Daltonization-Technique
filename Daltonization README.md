@@ -101,7 +101,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
                                                       
 
-# Simulation helps educators, developers and public to understand how the Color vision deficiency indivduals really perceives the world.
+
 
 
 
