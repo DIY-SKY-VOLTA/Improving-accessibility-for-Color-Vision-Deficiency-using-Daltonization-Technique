@@ -4,50 +4,36 @@ Daltonization, a recolor technique which recolors the image to make accessible f
 
 Color Vision Deficiency (CVD), commonly referred to as color blindness, affects the ability to perceive colors accurately. It can vary in severity and is typically classified into the following types:
 
-## 1. **Red-Green Color Vision Deficiency**
-This is the most common type of CVD and involves difficulty in distinguishing between red and green hues.
 
-### a. **Protanomaly** 
-- Reduced sensitivity to red light.
-- Red colors may appear more muted or brownish.
-
-### b. **Protanopia**
+### 1. **Protanopia**
 - Complete inability to perceive red light.
 - Red may appear black, and certain shades of orange, green, and yellow can be indistinguishable.
 
-### c. **Deuteranomaly**
-- Reduced sensitivity to green light.
-- Greens and yellows may appear similar.
 
-### d. **Deuteranopia**
+### 2. **Deuteranopia**
 - Complete inability to perceive green light.
 - Green and red hues may appear indistinguishable.
 
----
 
-## 2. **Blue-Yellow Color Vision Deficiency**
-This type is less common and involves difficulty distinguishing between blue and yellow shades.
-
-### a. **Tritanomaly**
-- Reduced sensitivity to blue light.
-- Blue may appear greenish, and yellow can appear pale or indistinct.
-
-### b. **Tritanopia**
+### 3. **Tritanopia**
 - Complete inability to perceive blue light.
 - Blue may appear green, and yellow may look pinkish or gray.
 
----
 
-## 3. **Monochromacy (Total Color Blindness)**
-This is a rare form of CVD where individuals perceive no color at all. It is subdivided into:
-
-### a. **Cone Monochromacy**
-- Only one type of cone cell functions, leading to a limited color spectrum.
-
-### b. **Rod Monochromacy (Achromatopsia)**
+### 4. **Monochromacy (Achromatopsia)**
 - No functional cone cells.
 - Vision is entirely grayscale, and light sensitivity is often increased.
 
+### 5. **Blue Monochromacy (Traitanomaly)**
+- Improves bluescale contrasts
+
+  
+### 6. **Enhanced Green (Deutanomaly)**
+- Improves greenscale contrasts
+
+  
+### 7. **Enhanced Red (Protanomaly)**
+- Improves Redscale contrasts
 ---
 
 ## How to Test for Color Vision Deficiency
