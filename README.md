@@ -1,5 +1,11 @@
 # Improving-accessibility-for-Color-Vision-Deficiency-using-Daltonization-Technique
 Daltonization, a recolor technique which recolors the image to make accessible for color vision deficiency individuals
+![_no water mark_enhanced](https://github.com/user-attachments/assets/dc3f9ff1-3d56-41a6-9842-0df0d7e74584)
+                                                       
+                                                        Original Image
+
+
+                                                        
 ![Protanopia ](https://github.com/user-attachments/assets/79d142ee-66a7-4bed-a3e8-5b94e53cd8f8)
 
                                                           Protanopia
