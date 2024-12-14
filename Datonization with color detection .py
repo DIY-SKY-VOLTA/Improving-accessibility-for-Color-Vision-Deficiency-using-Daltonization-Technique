@@ -1,3 +1,5 @@
+# Install the libraries before execution
+
 import numpy as np
 from PIL import Image, ImageTk
 import tkinter as tk
