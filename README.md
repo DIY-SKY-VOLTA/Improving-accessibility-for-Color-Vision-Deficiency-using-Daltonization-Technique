@@ -61,7 +61,8 @@ Dsiplaying RGB Values
 <table>
   <tr>
     <td><strong>Color Recognition</strong></td>
-    ![Color recognition -maker](https://github.com/user-attachments/assets/1990bdb8-754e-4a1d-8a5c-90f09c1921b6)
+    ![Color recognition -maker](https://github.com/user-attachments/assets/0b0f4732-581b-4ff4-a181-6abce747b410)
+
 
 
 
