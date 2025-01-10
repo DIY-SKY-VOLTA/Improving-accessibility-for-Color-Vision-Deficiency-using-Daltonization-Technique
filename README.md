@@ -1,14 +1,35 @@
-#                                  Original Image
-![0 Original Apples](https://github.com/user-attachments/assets/c648603b-d104-4203-b4fe-3f53d730b5a7)
+# Color Vision Deficiency Demonstration
 
+This README provides examples of how images appear for individuals with various types of color vision deficiencies. Below are the original, simulated, and daltonized (recolored) images for reference.
 
-#                            Daltonized (Recoloring) Images
-![simulated-gif-maker](https://github.com/user-attachments/assets/5a08ef6c-c83e-46f2-b721-45d291a603bd)
-Filters clonned from Daltonize.org, a chrome extension consists of Protanopia, deutanopia, Tritanopi, Enhance - R, Enhance - G
-Credit: http://www.daltonize.org/
+---
 
-# Simulated Images
-![Simulated-maker](https://github.com/user-attachments/assets/c0b798b0-7ea7-412b-a2d6-b6ad983d58a9)
+## Original Image
+![Original Apples](https://github.com/user-attachments/assets/c648603b-d104-4203-b4fe-3f53d730b5a7)
+
+---
+
+## Daltonized (Recolored) Images
+The following images were created using filters cloned from [Daltonize.org](http://www.daltonize.org/), a Chrome extension. These include:
+- Protanopia
+- Deutanopia
+- Tritanopia
+- Enhance - R
+- Enhance - G
+
+![Daltonized Filters](https://github.com/user-attachments/assets/5a08ef6c-c83e-46f2-b721-45d291a603bd)
+
+---
+
+## Simulated Images
+Below is a simulation of how individuals with different types of color blindness perceive the image.
+
+![Simulated View](https://github.com/user-attachments/assets/c0b798b0-7ea7-412b-a2d6-b6ad983d58a9)
+
+---
+
+### Credits
+Filters and tools provided by [Daltonize.org](http://www.daltonize.org/).
 
 # Understanding Color Vision Deficiency and Accessibility Technologies
 For detailed information: Daltonize.org http://www.daltonize.org/
