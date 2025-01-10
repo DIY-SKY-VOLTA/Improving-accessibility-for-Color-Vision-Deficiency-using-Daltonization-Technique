@@ -23,13 +23,18 @@ The following images were created using filters cloned from [Daltonize.org](http
 
 ## Simulated Images
 Below is a simulation of how individuals with different types of color blindness perceive the image.
+- Protanopia
+- Deutanopia
+- Tritanopia
+- Monochromacy
+- Blue Monochromacy
 
 ![Simulated View](https://github.com/user-attachments/assets/c0b798b0-7ea7-412b-a2d6-b6ad983d58a9)
 
 ---
 
 ### Credits
-Filters and tools provided by [Daltonize.org](http://www.daltonize.org/).
+Filters and tools provided by [Coblis Simulator]((https://www.color-blindness.com/coblis-color-blindness-simulator/)).
 
 # Understanding Color Vision Deficiency and Accessibility Technologies
 For detailed information: Daltonize.org http://www.daltonize.org/
