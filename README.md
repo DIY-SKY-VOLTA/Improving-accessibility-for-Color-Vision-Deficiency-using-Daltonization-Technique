@@ -1,3 +1,5 @@
+# Simulated Images
+![simulated-gif-maker](https://github.com/user-attachments/assets/5a08ef6c-c83e-46f2-b721-45d291a603bd)
 # Understanding Color Vision Deficiency and Accessibility Technologies
 For detailed information: Daltonize.org http://www.daltonize.org/
 
