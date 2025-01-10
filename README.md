@@ -4,37 +4,50 @@ This README provides examples of how images appear for individuals with various 
 
 ---
 
-## Original Image
-![Original Apples](https://github.com/user-attachments/assets/c648603b-d104-4203-b4fe-3f53d730b5a7)
+## Original and Daltonized Images (Side-by-Side)
+
+The following images show the original on the left and the daltonized (recolored) versions on the right. These images were created using filters cloned from [Daltonize.org](http://www.daltonize.org/).
+
+<table>
+  <tr>
+    <td><strong>Original Image</strong></td>
+    <td><strong>Daltonized Filters</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c648603b-d104-4203-b4fe-3f53d730b5a7" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/5a08ef6c-c83e-46f2-b721-45d291a603bd" width="400"></td>
+  </tr>
+</table>
 
 ---
 
-## Daltonized (Recolored) Images
-The following images were created using filters cloned from [Daltonize.org](http://www.daltonize.org/), a Chrome extension. These include:
-- Protanopia
-- Deutanopia
-- Tritanopia
-- Enhance - R
-- Enhance - G
+## Original and Simulated Images (Side-by-Side)
 
-![Daltonized Filters](https://github.com/user-attachments/assets/5a08ef6c-c83e-46f2-b721-45d291a603bd)
-
----
-
-## Simulated Images
-Below is a simulation of how individuals with different types of color blindness perceive the image.
+Below are the original images (on the left) and simulated versions (on the right) that show how individuals with various types of color blindness perceive the image.  
+Simulated types include:
 - Protanopia
 - Deutanopia
 - Tritanopia
 - Monochromacy
 - Blue Monochromacy
 
-![Simulated View](https://github.com/user-attachments/assets/c0b798b0-7ea7-412b-a2d6-b6ad983d58a9)
+<table>
+  <tr>
+    <td><strong>Original Image</strong></td>
+    <td><strong>Simulated View</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c648603b-d104-4203-b4fe-3f53d730b5a7" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/c0b798b0-7ea7-412b-a2d6-b6ad983d58a9" width="400"></td>
+  </tr>
+</table>
 
 ---
 
 ### Credits
-Filters and tools provided by [Coblis Simulator]((https://www.color-blindness.com/coblis-color-blindness-simulator/)).
+Filters and tools provided by:  
+- [Daltonize.org](http://www.daltonize.org/)  
+- [Coblis Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
 
 # Understanding Color Vision Deficiency and Accessibility Technologies
 For detailed information: Daltonize.org http://www.daltonize.org/
