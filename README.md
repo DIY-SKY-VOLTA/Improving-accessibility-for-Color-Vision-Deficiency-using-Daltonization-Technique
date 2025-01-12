@@ -181,7 +181,12 @@ The integration of Daltonization, simulation, object segmentation, and color rec
 Our project aims to combine these technologies into an AI-powered solution to make visual content universally accessible.
 
 ---
-
+### Find your Detailed Refernce Paper Collection about Color Vision Deficiency.
+- parameters
+- Algorithms
+- Features
+- Advancements
+https://drive.google.com/drive/folders/15r6M3GgRDUunAnGbvmYZS2Yj-6_mNc0s?usp=sharing  
 ## Contributing
 We welcome contributions to improve this project, add new features, or refine existing techniques. Please open an issue or submit a pull request with your suggestions.
 
