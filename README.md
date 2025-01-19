@@ -55,6 +55,11 @@ For detailed information: Daltonize.org http://www.daltonize.org/
 
 Color Vision Deficiency (CVD) is a visual impairment affecting the perception of colors. This document explains CVD, the concept of Daltonization, simulation techniques, and the application of object segmentation and color recognition in designing accessible solutions for CVD.
 
+## Overview
+The Improved Octree Quantization Method (IOQM) is used to extract key colors from each frame, creating an Extracted Cluster Palette (ECP) that represents significant colors within a reduced but effective color space. The ECP is then optimized by integrating spatial and temporal constraints, helpful to create datasets to train AI. The videos are first converted into a number of frames at periodic delays; next, each frame is converted into an extracted color palette (ECP). After simulations and recoloring processes are applied on those ECP, they are evaluated by an individual suffering from CVD.
+
+## Image Comparison
+
 | Original Image | Extracted Cluster Palette |
 |:--------------:|:-------------------------:|
 | ![Original Image](https://github.com/user-attachments/assets/563f63fd-1418-46db-ab2a-cd2cf9b4445e) | ![Extracted Palette](https://github.com/user-attachments/assets/bc2ac494-ad38-45fd-98c7-6c121b75a37c) |
