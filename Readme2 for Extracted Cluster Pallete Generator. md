@@ -10,10 +10,6 @@ The Improved Octree Quantization Method (IOQM) is used to extract key colors fro
 
 ## Image Comparison
 
-| Original Image | Extracted Cluster Palette |
-|:--------------:|:-------------------------:|
-| ![Original Image](https://github.com/user-attachments/assets/563f63fd-1418-46db-ab2a-cd2cf9b4445e) | ![Extracted Palette](https://github.com/user-attachments/assets/bc2ac494-ad38-45fd-98c7-6c121b75a37c) |
-
 ## Current Date
 Monday, January 20, 2025, 1 AM IST
 
