@@ -57,7 +57,9 @@ Color Vision Deficiency (CVD) is a visual impairment affecting the perception of
 
 | Original Image | Extracted Cluster Palette |
 |:--------------:|:-------------------------:|
-| ![Original Image](D:/MIT%20FULL%20NOTES/MIT%20PROJECT/MIT%20PROJECT%20MATERIALS/Research/CIE%20COLOR%20SPACE/own%20pictures/DATA%20SETS/_no%20water%20mark_enhanced.png) | ![Extracted Palette](D:/MIT%20FULL%20NOTES/MIT%20PROJECT/MIT%20PROJECT%20MATERIALS/Research/CIE%20COLOR%20SPACE/own%20pictures/DATA%20SETS/generated%20pic%202%20Good%20outputFigure_1.png) |
+| Original Image | Extracted Cluster Palette |
+|:--------------:|:-------------------------:|
+| ![Original Image](images/_no%20water%20mark_enhanced.png) | ![Extracted Palette](images/generated%20pic%202%20Good%20outputFigure_1.png) |
 
 ### Color Recognition
 Dsiplaying RGB Values
