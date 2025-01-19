@@ -54,7 +54,9 @@ For detailed information: Daltonize.org http://www.daltonize.org/
 
 
 Color Vision Deficiency (CVD) is a visual impairment affecting the perception of colors. This document explains CVD, the concept of Daltonization, simulation techniques, and the application of object segmentation and color recognition in designing accessible solutions for CVD.
-
+| Original Image | Extracted Cluster Palette |
+|:--------------:|:-------------------------:|
+| ![Original Image](D:\MIT FULL NOTES\MIT PROJECT\MIT PROJECT MATERIALS\Research\CIE COLOR SPACE\own pictures\DATA SETS\_no water mark_enhanced.png) | ![Extracted Palette](D:\MIT FULL NOTES\MIT PROJECT\MIT PROJECT MATERIALS\Research\CIE COLOR SPACE\own pictures\DATA SETS\generated pic 2 Good outputFigure_1.png) |
 ---
 ### Color Recognition
 Dsiplaying RGB Values
