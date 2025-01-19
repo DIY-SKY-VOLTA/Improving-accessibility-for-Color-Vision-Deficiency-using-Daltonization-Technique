@@ -1,17 +1,14 @@
 # Improved Octree Quantization Method (IOQM)
 
 ## Overview
-The Improved Octree Quantization Method (IOQM) is used to extract key colors from each frame, creating an Extracted Cluster Palette (ECP) that represents significant colors within a reduced but effective color space. The ECP is then optimized by integrating spatial and temporal constraints, helpful to create datasets to train AI. The videos are first converted into a number of frames at periodic delays; next, each frame is converted into an extracted color palette (ECP). After simulations and recoloring processes are applied on those ECP, they are evaluated by an individual suffering from CVD.
 
-## Image Comparison
+The Improved Octree Quantization Method (IOQM) is used to extract key colors from each frame, 
+creating an Extracted Cluster Palette (ECP) that represents significant colors within a reduced but effective color space.
+The ECP is then optimized by integrating spatial and temporal constraints, helpful to create datasets to train AI.
+The videos are first converted into a number of frames at periodic delays; next,
+each frame is converted into an extracted color palette (ECP). After simulations and
+recoloring processes are applied on those ECP, they are evaluated by an individual suffering from CVD.
 
-## Overview
-The Improved Octree Quantization Method (IOQM) is used to extract key colors from each frame, creating an Extracted Cluster Palette (ECP) that represents significant colors within a reduced but effective color space. The ECP is then optimized by integrating spatial and temporal constraints, helpful to create datasets to train AI. The videos are first converted into a number of frames at periodic delays; next, each frame is converted into an extracted color palette (ECP). After simulations and recoloring processes are applied on those ECP, they are evaluated by an individual suffering from CVD.
-
-## Image Comparison
-
-## Current Date
-Monday, January 20, 2025, 1 AM IST
 
 ## References
 - [K-Means Clustering](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
